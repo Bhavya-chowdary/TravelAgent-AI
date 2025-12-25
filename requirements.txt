@@ -1,0 +1,16 @@
+python-dotenv
+langchain_community
+bs4
+sentence_transformers
+requests
+faiss-cpu
+langchain_groq
+langchain_huggingface
+langchain
+langchain_chroma
+ipykernel
+wikipedia
+pypdf
+langchain_core
+tavily-python
+streamlit
