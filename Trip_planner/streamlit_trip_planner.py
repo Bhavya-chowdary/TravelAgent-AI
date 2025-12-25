@@ -7,7 +7,7 @@ import streamlit as st
 from trip_planner3 import generate_trip_itinerary
 from datetime import datetime
 
-# Page configuration
+# Page configurations
 st.set_page_config(
     page_title="✈️ Trip Planner AI",
     page_icon="✈️",
